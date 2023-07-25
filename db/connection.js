@@ -9,7 +9,7 @@ const connectToMongoDB = async () => {
     await mongoose.connect(databaseUrl);
     console.log("Connected to MongoDB!");
   } catch (err) {
-    console.log(chalk.red(`Error connecting to MongoDB: ${err.message}`));
+    console.log(`Error connecting to MongoDB: ${err.message}`);
   }
 };
 
