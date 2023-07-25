@@ -2,7 +2,7 @@ import express from "express";
 import db from "./db/connection.js";
 import routes from "./routes/index.js";
 
-const PORT = 3000;
+const PORT = process.env.PORT || 3000
 const app = express();
 
 app.use(express.json());
