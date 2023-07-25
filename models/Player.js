@@ -5,6 +5,9 @@ const Schema = mongoose.Schema;
 const playerSchema = new Schema(
   {
     name: { type: String },
+    team: { type: String },
+    draftClass: { type: String },
+    position: { type: String },
     gp: { type: Number },
     min: { type: Number },
     fgp: { type: Number },
@@ -16,7 +19,7 @@ const playerSchema = new Schema(
     stl: { type: Number },
     pf: { type: Number },
     to: { type: Number },
-    pts: { type: Number }
+    ppg: { type: Number }
   }
 );
 
