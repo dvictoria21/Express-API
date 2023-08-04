@@ -4,12 +4,11 @@ const Schema = mongoose.Schema;
 
 const playerSchema = new Schema(
   {
-    img: { type: String },
+    image: { type: String },
     name: { type: String },
     team: { type: String },
     draftClass: { type: String },
     position: { type: String },
-    "height(in)": {type: Number},
     gp: { type: Number },
     min: { type: Number },
     fgp: { type: Number },
