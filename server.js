@@ -8,11 +8,7 @@ const app = express();
 
 app.use(express.json());
 app.use("/", routes);
-app.use(
-  cors({
-    origin: "*",
-  })
-)
+app.use(cors())
 
 async function startServer() {
   try {
