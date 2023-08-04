@@ -1,8 +1,10 @@
 [
   {
       "_id": "64bfa34b39f152badfcbff49",
+      "image": "src= ./images/darius-bazley.png",
       "name": "Darius Bazley",
       "team": "Brooklyn Nets",
+      "height(in)": "",
       "gp": 43,
       "min": 14.3,
       "fgp": 45.4,
@@ -19,6 +21,7 @@
   },
   {
       "_id": "64bfa34b39f152badfcbff4d",
+      "image": "src= ./images/spencer-dinwiddie.png",
       "name": "Spencer Dinwiddie",
       "team": "Brooklyn Nets",
       "gp": 79,
@@ -37,6 +40,7 @@
   },
   {
       "_id": "64bfa34b39f152badfcbff4c",
+      "image":"src= ./images/noah-clowney.png",
       "name": "Noah Clowney",
       "team": "Brooklyn Nets",
       "gp": 0,
@@ -55,6 +59,7 @@
   },
   {
       "_id": "64bfa3b239f152badfcbff50",
+      "image":"src= ./images/cameron-johnson.png",
       "name": "Cameron Johnson",
       "team": "Brooklyn Nets",
       "gp": 42,
@@ -73,6 +78,7 @@
   },
   {
       "_id": "64bfa34b39f152badfcbff4a",
+      "image": "src= ./images/mikal-bridges.png",
       "name": "Mikal Bridges",
       "team": "Brooklyn Nets",
       "gp": 83,
@@ -91,6 +97,7 @@
   },
   {
       "_id": "64bfa3b239f152badfcbff4f",
+      "image": "src= ./images/dorian-finney-smith.png",
       "name": "Dorian Finney-Smith",
       "team": "Brooklyn Nets",
       "gp": 66,
@@ -109,6 +116,7 @@
   },
   {
       "_id": "64bfa3b239f152badfcbff52",
+      "image":"src= ./images/dayron-sharpe.png",
       "name": "Day'Ron Sharpe",
       "team": "Brooklyn Nets",
       "gp": 48,
@@ -127,6 +135,7 @@
   },
   {
       "_id": "64bfa3b239f152badfcbff53",
+      "image":"src= ./images/ben-simmons.png",
       "name": "Ben Simmons",
       "team": "Brooklyn Nets",
       "gp": 42,
@@ -145,6 +154,7 @@
   },
   {
       "_id": "64bfa34b39f152badfcbff4e",
+      "image":"src= ./images/david-duke-jr.png",
       "name": "David Duke, Jr.",
       "team": "Brooklyn Nets",
       "gp": 23,
@@ -163,6 +173,7 @@
   },
   {
       "_id": "64bfa3b239f152badfcbff51",
+      "image":"src= ./images/royce-oneale.png",
       "name": "Royce O'Neale",
       "team": "Brooklyn Nets",
       "gp": 76,
@@ -181,6 +192,7 @@
     },
     {
       "_id": "64bfa3e339f152badfcbff57",
+      "image":"src= ./images/dariq-whitehead.png",
       "name": "Dariq Whitehead",
       "team": "Brooklyn Nets",
       "gp": 0,
@@ -199,6 +211,7 @@
   },
   {
     "_id": "64bfa34b39f152badfcbff4b",
+    "image":"src= ./images/nic-claxton.png",
     "name": "Nic Claxton",
     "team": "Brooklyn Nets",
       "gp": 76,
@@ -217,6 +230,7 @@
   },
   {
     "_id": "64bfa3b239f152badfcbff54",
+    "image":"src= ./images/dennis-smith-jr.png",
     "name": "Dennis Smith Jr.",
     "team": "Brooklyn Nets",
       "gp": 54,
@@ -235,6 +249,7 @@
   },
   {
       "_id": "64bfa3b239f152badfcbff55",
+      "image": "src= ./images/cam-thomas.png",
       "name": "Cam Thomas",
       "team": "Brooklyn Nets",
       "gp": 57,
@@ -253,6 +268,7 @@
   },
   {
       "_id": "64bfa3e339f152badfcbff58",
+      "image":"src= ./images/jalen-wilson.png",
       "name": "Jalen Wilson",
       "team": "Brooklyn Nets",
       "gp": 0,
@@ -271,6 +287,7 @@
   },
   {
       "_id": "64bfa3e339f152badfcbff56",
+      "image":"src= ./images/lonnie-walker.png",
       "name": "Lonnie Walker IV",
       "team": "Brooklyn Nets",
       "gp": 56,
